@@ -2,7 +2,6 @@
 
 ### Welcome to my profile and learn more about me
 ---
-<br>
 
 - 👨🏽‍🎓 Graduated in Information System
 - 👨‍💻 Developer Web Full Stack
@@ -10,11 +9,7 @@
 - 📚 Online course instructor
 - 🤵 Founder of [Yunix](https://yunix.com.br)
 
-<br>
-
 ---
-
-<center>
 
 ### My Skills
 
@@ -26,10 +21,6 @@
 <img src="https://www.php.net/images/logos/php-logo-white.svg" width="48" alt="PHP"/>
 <img src="https://laravel.com/img/logomark.min.svg" width="48" alt="Laravel"/>
 
-</center>
-
-<br>
-
 ---
 
 ### Stats
@@ -39,8 +30,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmarcos&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realmarcos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<br>
-
+![Snake animation](https://github.com/realmarcos/realmarcos/blob/output/github-contribution-grid-snake.svg)
+</div>
 ---
 
 ### Contacts
@@ -58,5 +49,3 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>   
 </div>
-<!-- ![Snake animation](https://github.com/realmarcos/realmarcos/blob/output/github-contribution-grid-snake.svg)
-</div> -->
