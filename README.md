@@ -1,6 +1,9 @@
 ## Hello, i'am Marcos a information technology enthusiast 👋
 
 ### Welcome to my profile and learn more about me
+
+![Snake animation](https://github.com/realmarcos/realmarcos/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 - 👨🏽‍🎓 Graduated in Information System
@@ -13,6 +16,7 @@
 
 ### My Skills
 
+<div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="GIT"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" alt="JavaScript"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" alt="TypeScript"/>
@@ -20,6 +24,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="48" alt="NodeJS"/>
 <img src="https://www.php.net/images/logos/php-logo-white.svg" width="48" alt="PHP"/>
 <img src="https://laravel.com/img/logomark.min.svg" width="48" alt="Laravel"/>
+</div>
 
 ---
 
@@ -30,7 +35,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmarcos&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realmarcos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-![Snake animation](https://github.com/realmarcos/realmarcos/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 ---
 
