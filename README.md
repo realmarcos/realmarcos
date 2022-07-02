@@ -22,7 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" alt="TypeScript"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="48" alt="ReactJS"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="48" alt="NodeJS"/>
-<img src="https://www.php.net/images/logos/php-logo-white.svg" width="48" alt="PHP"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" width="48" alt="PHP"/>
 <img src="https://laravel.com/img/logomark.min.svg" width="48" alt="Laravel"/>
 </div>
 
