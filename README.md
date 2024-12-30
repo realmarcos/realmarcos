@@ -8,7 +8,7 @@
 
 - 👨🏽‍🎓 Graduated in Information System
 - 👨‍💻 Developer Web Full Stack
-- 📚 Online course instructor
+- 📚 Online course instructor and teacher
 - 🤵 Founder of [WMbot](https://wmbot.com.br)
 
 ---
@@ -47,7 +47,7 @@
 <a href="https://instagram.com/realmarcos.r" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-<a href = "mailto:contato@realmarcos.raimundo@outlook.com">
+<a href = "mailto:contato@realmarcos.raimundo@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/realmarcos" target="_blank">
