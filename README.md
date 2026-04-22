@@ -56,7 +56,7 @@
 
 <h2 align="left">Atividade no GitHub</h2>
 
-<img src="https://github.com/realmarcos/realmarcos/blob/output/github-contribution-grid-snake.svg" alt="Animação de snake com contribuições" />
+![snake animation](https://github.com/realmarcos/realmarcos/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
