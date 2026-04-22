@@ -56,7 +56,7 @@
 
 <h2 align="left">Atividade no GitHub</h2>
 
-<img src="https://raw.githubusercontent.com/realmarcos/output/snake.svg" alt="Animação de snake com contribuições" />
+<img src="https://github.com/realmarcos/realmarcos/blob/output/github-contribution-grid-snake.svg" alt="Animação de snake com contribuições" />
 
 ---
 
@@ -71,7 +71,7 @@
 
 <h2 align="left">Contatos</h2>
 
-<div align="left">
+<div align="left" >
   <a href="https://www.linkedin.com/in/realmarcos" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" title="LinkedIn" />
   </a>
