@@ -56,7 +56,7 @@
 
 <h2 align="left">Atividade no GitHub</h2>
 
-![snake animation](https://github.com/realmarcos/realmarcos/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/realmarcos/realmarcos/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
